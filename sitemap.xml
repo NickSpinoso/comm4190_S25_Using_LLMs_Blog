@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2025-04-08T17:40:20.689Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/about.html</loc>
-    <lastmod>2025-04-08T17:40:20.688Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/index.html</loc>
-    <lastmod>2025-04-08T17:40:20.688Z</lastmod>
+    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/posts/002test/002.html</loc>
+    <lastmod>2025-04-08T17:52:11.361Z</lastmod>
   </url>
   <url>
     <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/posts/001_firstpost/001_firstpost.html</loc>
-    <lastmod>2025-04-08T17:40:20.689Z</lastmod>
+    <lastmod>2025-04-08T17:52:11.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/index.html</loc>
+    <lastmod>2025-04-08T17:52:11.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/about.html</loc>
+    <lastmod>2025-04-08T17:52:11.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NickSpinoso.github.io/comm4190_S25_Using_LLMs_Blog/posts/000_test_post/index.html</loc>
+    <lastmod>2025-04-08T17:52:11.361Z</lastmod>
   </url>
 </urlset>
