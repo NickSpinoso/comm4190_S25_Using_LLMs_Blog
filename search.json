@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Explorations with LLMs",
-    "section": "",
-    "text": "What is the best country in the world?\n\n\n\ntravel\n\n\n\nfinding the best country\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nWho is the GOAT?\n\n\n\nbasketall\n\n\n\nWho is the best basketball player ever\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nNicks’s 2nd Post\n\n\n\nLLMs\n\nLearning\n\n\n\nMost important part of bball\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Real Blog\n\n\n\nLLMs\n\nprompting\n\nlogic\n\nbasketball\n\n\n\nHow to shoot a basketball\n\n\n\n\n\nApr 9, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\nFirst\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\ntrying out new post\n\n\n\n\n\nApr 8, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\n002\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\ntrying out 2nd post\n\n\n\n\n\nApr 8, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/Post 004/Post004.html",
-    "href": "posts/Post 004/Post004.html",
-    "title": "What is the best country in the world?",
+    "objectID": "posts/Post 003/003.html",
+    "href": "posts/Post 003/003.html",
+    "title": "Who is the GOAT?",
     "section": "",
-    "text": "#4 What is the best country in the world?\nThere’s no single “best” country in the world—it depends on what you value. But here are a few countries often ranked highly in different categories:\n\n\n🌍 Best Overall Quality of Life\n\nNorway, Switzerland, Canada, Sweden\nThese countries consistently rank high in happiness, healthcare, education, and safety.\n\n\n\n💰 Best Economy/Opportunities\n\nUnited States, Germany, Japan\nStrong economies, innovation, and job opportunities make them attractive globally.\n\n\n\n🎓 Best Education\n\nFinland, South Korea, Singapore\nKnown for high-performing education systems and academic excellence.\n\n\n\n🏞 Best Natural Beauty\n\nNew Zealand, Iceland, Canada\nThese nations offer stunning landscapes, outdoor living, and clean environments.\n\n\n\n🎭 Most Influential Culturally\n\nUnited States, France, Italy\nLeaders in music, film, fashion, and global media influence.\n\n\n\n\nSo… “Best” Depends On:\n\nAre you looking for freedom, safety, opportunity, beauty, or influence?\n\nWhat kind of “best” are you thinking about—travel, living, sports, or something else?”"
+    "text": "#3 Who is the greatest basketball player ever?\n“The title of “best basketball player ever” is one of the most debated in sports, but the top candidates almost always include:\n\n\n🐐 Michael Jordan\n\n6× NBA Champion, 5× MVP, 10 scoring titles\nKnown for his dominance in the 1990s, killer instinct, clutch performances, and global impact on the game.\nMany call him the GOAT because of his perfect Finals record and unmatched competitiveness.\n\n\n\n\n👑 LeBron James\n\n4× NBA Champion, 4× MVP, All-time leading scorer\nKnown for longevity, versatility, and elite play across multiple decades and teams.\nStill competing at a high level in his 40s, he’s praised for his all-around game—scoring, passing, rebounding, and defense.\n\n\n\n\n🛡️ Other Legends in the Conversation:\n\nKareem Abdul-Jabbar – 6× MVP (most ever), 6× Champion, skyhook master.\nMagic Johnson – Revolutionized the point guard position.\nKobe Bryant – 5× Champion, known for his work ethic and killer mentality.\nLarry Bird, Tim Duncan, Wilt Chamberlain, Bill Russell – All have unique cases.\n\n\n\n\nVerdict:\n\nIf you value perfection and dominance: Michael Jordan.\nIf you value longevity and all-around excellence: LeBron James.\n\nWho do you lean toward? Or want a breakdown by position or era?”\nChoose one\nIf I have to choose one: Michael Jordan.\nHis perfect 6–0 Finals record, dominance on both ends of the floor, unmatched competitiveness, and cultural impact make him the most iconic and influential player in basketball history.\nWant to compare his prime to LeBron’s in more detail?\nMy Answer: I am very passionate about this argument between Michael Jordan and Lebron James. I believe that Lebron is the best basketball player ever. I actually went back and asked who the best basketball player is and not the greatest and what AI said is exactly how I feel. I feel that the greatest is Michael Jordan but the best is Lebron. Lebron is the most well rounded player the game has ever seen and he has been elite for 20 years professionally. Jordan is the greatest because he went a perfect 6-0 in the NBA Finals and was ahead of his time in the things he was doing on the court. Everyone wanted to be “Like Mike”"
   },
   {
     "objectID": "posts/000_test_post/index.html",
@@ -35,20 +28,6 @@
     "text": "Read the following and see if you can answer the question:\n\n\nThere are three boxes in a stack. A pink one, a purple one and a green one. The pink one is in the middle of the stack with the purple below it. What is the color of the box on the bottom of the stack?\n\nMost likely you answered purple…\nBut it is possible you first said green (don’t worry if you did it is quite a common response!)\n\n\nIt’s a verbal visual problem that requires some deliberation and most likely for us to create a visual image of a stack of boxes as a reasoning aid.\nNotice also the complexity of the language used in the prompt to describe the scene. The use of natural language as opposed to a formal/logical calculus does hold the potential for ambiguity (multiple interpretations) and inexactness. However, it is the most normal/natural, efficient and broadly accessible way of communicating such information.\nNotice 1. The use of anaphor or reference. - Three BOXES -&gt; a pink/purple/green ONE as opposed to a pink box, a purple box and a green box. - The PINK ONE is in the middle ... the purple {BOX} below IT {the pink box}\nWe tend to try and avoid this kind of repetition to make our speech more coherent.\n\nAlthough the description in language may not be entirely concise, there is no real ambiguity as to how the boxes can be arranged. It must be: | Box | Stack position | | — | — | | GREEN | top | | PINK | middle | | PURPLE | bottom |\n\n\n\n\nGPT3.5 Turbo\n\nHad some difficulties and answered green\nLlama2 (chat 7B version)\n\n\nAnswered correctly (purple) and used some so-called chain-of-thought reasoning\n\nBing Chat (MS Co-pilot)\nThis LLM is GPT4 with some Microsoft specific tuning and RAG (search) additions.\nIt get’s it correct:\n\nThe color of the box on the bottom of the stack is purple. This is because the purple box is below the pink one, which is in the middle of the stack. Therefore, the purple box must be the lowest one. 🟪\n\nBut when you follow up and ask it to create visual representation of the box arrangement\n\nPROMPT: Can you create a visual representation of how the boxes are arranged?\n\nIt responds\n\nRESPONSE: Sure, I’ll try to create that. Here is a visual representation of how the boxes are arranged:\n\nAnd uses DALL-E3 to create 4 different attempts at a visual representation:\n\nNONE OF WHICH ARE CORRECT!!!"
   },
   {
-    "objectID": "posts/Post 003/003.html",
-    "href": "posts/Post 003/003.html",
-    "title": "Who is the GOAT?",
-    "section": "",
-    "text": "#3 Who is the greatest basketball player ever?\n“The title of “best basketball player ever” is one of the most debated in sports, but the top candidates almost always include:\n\n\n🐐 Michael Jordan\n\n6× NBA Champion, 5× MVP, 10 scoring titles\nKnown for his dominance in the 1990s, killer instinct, clutch performances, and global impact on the game.\nMany call him the GOAT because of his perfect Finals record and unmatched competitiveness.\n\n\n\n\n👑 LeBron James\n\n4× NBA Champion, 4× MVP, All-time leading scorer\nKnown for longevity, versatility, and elite play across multiple decades and teams.\nStill competing at a high level in his 40s, he’s praised for his all-around game—scoring, passing, rebounding, and defense.\n\n\n\n\n🛡️ Other Legends in the Conversation:\n\nKareem Abdul-Jabbar – 6× MVP (most ever), 6× Champion, skyhook master.\nMagic Johnson – Revolutionized the point guard position.\nKobe Bryant – 5× Champion, known for his work ethic and killer mentality.\nLarry Bird, Tim Duncan, Wilt Chamberlain, Bill Russell – All have unique cases.\n\n\n\n\nVerdict:\n\nIf you value perfection and dominance: Michael Jordan.\nIf you value longevity and all-around excellence: LeBron James.\n\nWho do you lean toward? Or want a breakdown by position or era?”\nChoose one\nIf I have to choose one: Michael Jordan.\nHis perfect 6–0 Finals record, dominance on both ends of the floor, unmatched competitiveness, and cultural impact make him the most iconic and influential player in basketball history.\nWant to compare his prime to LeBron’s in more detail?\nMy Answer: I am very passionate about this argument between Michael Jordan and Lebron James. I believe that Lebron is the best basketball player ever. I actually went back and asked who the best basketball player is and not the greatest and what AI said is exactly how I feel. I feel that the greatest is Michael Jordan but the best is Lebron. Lebron is the most well rounded player the game has ever seen and he has been elite for 20 years professionally. Jordan is the greatest because he went a perfect 6-0 in the NBA Finals and was ahead of his time in the things he was doing on the court. Everyone wanted to be “Like Mike”"
-  },
-  {
-    "objectID": "posts/001_firstpost/001_firstpost.html",
-    "href": "posts/001_firstpost/001_firstpost.html",
-    "title": "First",
-    "section": "",
-    "text": "Testing First Post\n\nFirst Post\nTrying out"
-  },
-  {
     "objectID": "posts/FirstRealPost/FirstRealBlog.html",
     "href": "posts/FirstRealPost/FirstRealBlog.html",
     "title": "First Real Blog",
@@ -63,6 +42,20 @@
     "text": "These topics are great overall tips to shooting at a very basic level but they do not encapsulate the real feel.\nThe number one thing that someone should know is that no body shoots the same, even from the best shooters like Steph Curry to someone who is just getting the hang of things everything is different.\nThere are many great shooters who have very “ugly” or unorthodox shooting forms\nThe biggest thing is feel, how it feels when you shoot it and what your body responds best to.\nYes bending your legs and holding your follow through are important but finding what feels good in a balance is what is most important.\n\n\n![Image](shot.png)\n\n/bin/bash: -c: line 1: syntax error near unexpected token `shot.png'\n/bin/bash: -c: line 1: `[Image](shot.png)'"
   },
   {
+    "objectID": "posts/Post 004/Post004.html",
+    "href": "posts/Post 004/Post004.html",
+    "title": "What is the best country in the world?",
+    "section": "",
+    "text": "#4 What is the best country in the world?\nThere’s no single “best” country in the world—it depends on what you value. But here are a few countries often ranked highly in different categories:\n\n\n🌍 Best Overall Quality of Life\n\nNorway, Switzerland, Canada, Sweden\nThese countries consistently rank high in happiness, healthcare, education, and safety.\n\n\n\n💰 Best Economy/Opportunities\n\nUnited States, Germany, Japan\nStrong economies, innovation, and job opportunities make them attractive globally.\n\n\n\n🎓 Best Education\n\nFinland, South Korea, Singapore\nKnown for high-performing education systems and academic excellence.\n\n\n\n🏞 Best Natural Beauty\n\nNew Zealand, Iceland, Canada\nThese nations offer stunning landscapes, outdoor living, and clean environments.\n\n\n\n🎭 Most Influential Culturally\n\nUnited States, France, Italy\nLeaders in music, film, fashion, and global media influence.\n\n\n\n\nSo… “Best” Depends On:\n\nAre you looking for freedom, safety, opportunity, beauty, or influence?\n\nWhat kind of “best” are you thinking about—travel, living, sports, or something else?”"
+  },
+  {
+    "objectID": "posts/001_firstpost/001_firstpost.html",
+    "href": "posts/001_firstpost/001_firstpost.html",
+    "title": "First",
+    "section": "",
+    "text": "Testing First Post\n\nFirst Post\nTrying out"
+  },
+  {
     "objectID": "posts/002test/002.html",
     "href": "posts/002test/002.html",
     "title": "002",
@@ -75,5 +68,12 @@
     "title": "Nicks’s 2nd Post",
     "section": "",
     "text": "2 What is the most important part of basketball?\n“The most important part of basketball depends on your role or perspective (player, coach, analyst), but overall, the most foundational element is possession of the ball—because you can’t score or win without it. From that, everything else branches out:\n\nCore Elements of Importance:\n\nBall Control – Dribbling, passing, and minimizing turnovers.\nShooting Efficiency – Making the most of scoring opportunities.\nDefense – Preventing the opponent from scoring and creating turnovers.\nRebounding – Gaining extra possessions and limiting the other team’s chances.\nTeamwork & Communication – Coordinated plays, help defense, and unselfish ball movement.\n\nBut if you had to narrow it to one key concept: &gt; Controlling the ball and making smart decisions with it is the most crucial, because it dictates who has the chance to score and when.”\n\nMy answer: This answer I actually agree with, controlling the ball and making the right decision is much more important than certain specific traits like shooting or rebounding. Because making the right decision can cancel out a lot of mistakes that can occur on the basketball court. But on the other side of things many people may value scoring and shooting because to win you have to score more than the other team. Although this is a very important part, I do actually agree.\n\n\n\n  Cell In[2], line 1\n    My answer: This answer I actually agree with, controlling the ball and making the right decision is much more important than certain specific traits like shooting or rebounding. Because making the right decision can cancel out a lot of mistakes that can occur on the basketball court. But on the other side of things many people may value scoring and shooting because to win you have to score more than the other team. Although this is a very important part, I do actually agree.\n       ^\nSyntaxError: invalid syntax"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Explorations with LLMs",
+    "section": "",
+    "text": "What is the best country in the world?\n\n\n\ntravel\n\n\n\nfinding the best country\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nWho is the GOAT?\n\n\n\nbasketall\n\n\n\nWho is the best basketball player ever\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nNicks’s 2nd Post\n\n\n\nLLMs\n\nLearning\n\n\n\nMost important part of bball\n\n\n\n\n\nMay 13, 2025\n\n\nNick\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Real Blog\n\n\n\nLLMs\n\nprompting\n\nlogic\n\nbasketball\n\n\n\nHow to shoot a basketball\n\n\n\n\n\nApr 9, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\nFirst\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\ntrying out new post\n\n\n\n\n\nApr 8, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\n002\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\ntrying out 2nd post\n\n\n\n\n\nApr 8, 2025\n\n\nNick S\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nLLMs\n\nprompting\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
   }
 ]
